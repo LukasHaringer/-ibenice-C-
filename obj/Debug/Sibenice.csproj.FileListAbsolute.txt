@@ -1,0 +1,9 @@
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\bin\Debug\Sibenice.exe.config
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.Properties.Resources.resources
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.csproj.GenerateResource.Cache
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\bin\Debug\Sibenice.exe
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\bin\Debug\Sibenice.pdb
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.exe
+c:\users\lukas\documents\visual studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.pdb
+C:\Users\Lukas\Documents\Visual Studio 2013\Projects\Sibenice\Sibenice\obj\Debug\Sibenice.Game.resources
